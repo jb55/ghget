@@ -1,7 +1,7 @@
 
 # ghget
 
-  wget github urls without having to remember to click that raw button
+  wget github urls even if you forget to click the raw button
 
 ## Installation
 
